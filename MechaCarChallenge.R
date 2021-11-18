@@ -34,7 +34,7 @@ t.test(x = SuspensionCoil_df$PSI, mu = 1500)
 t.test(subset(SuspensionCoil_df, Manufacturing_Lot == 'Lot1')$PSI, mu = 1500)
 
 # Lot 2 T-test
-t.test(subset(SuspensionCoil_df, Manufacturing_Lot == 'Lot3')$PSI, mu = 1500)
+t.test(subset(SuspensionCoil_df, Manufacturing_Lot == 'Lot2')$PSI, mu = 1500)
 
 # Lot 3 T-test
 t.test(subset(SuspensionCoil_df, Manufacturing_Lot == 'Lot3')$PSI, mu = 1500)
