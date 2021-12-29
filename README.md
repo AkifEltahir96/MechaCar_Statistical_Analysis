@@ -9,15 +9,22 @@ In conclusion, the variables of vehicle length and ground clearance provided a n
 
 ## Summary Statistics on Suspension Coils
 Summary Stats on Suspension Coils:
+
 ![Summary Stats](https://github.com/AkifEltahir96/MechaCar_Statistical_Analysis/blob/main/Pictures/Total-Summary.png) 
+
 On average, the variance of suspension coils in all of the lots meet the design specification of less than 100 pounds per square inch. 
+
 Lot Summary for Suspension Coils:
+
 ![Lot Summary](https://github.com/AkifEltahir96/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot-Summary.png) 
+
 When looking at each lot individually, the Lot 3 variance of 170.29 pounds per square inch is much higher than the 100 pound per square inch requirement. However, the variance of suspension coils in Lots 1 (variance = 0.98) & 2 (variance = 7.47) meet the design specifications. 
 
 ## T-Tests on Suspension Coils
 Suspension Coil T-Tests:
+
 ![T-tests](https://github.com/AkifEltahir96/MechaCar_Statistical_Analysis/blob/main/Pictures/T-tests.png) 
+
 In conclusion, a t-test comparing the all of the suspension coil weights (regardless of lot) to the population weight of 1500 pounds per inch does not produce a significant effect (t = -1.89, p = 0.06). Similarly, T-tests comparing the mean weights of suspension coils in Lots 1 and 2 (separately) to the population weight also produce no significant difference (Lot 1: t = 0, p = 1; Lot 2: t = 0.52, p = 0.61). However, there is a significant difference in the mean weights of coils in Lot 3 (t = -2.09, p = 0.04). The coil weights in Lot 3 are significantly less than the population weight, in contrast to the no significant difference reported in Lots 1 and 3.
 
 ## Study Design: MechaCar vs Competition
