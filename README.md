@@ -2,7 +2,9 @@
 
 ## Linear Regression to Predict MPG
 Predicting MPG:
+
 ![Predicting MPG](https://github.com/AkifEltahir96/MechaCar_Statistical_Analysis/blob/main/Pictures/Deliverable-1-Summary.png) 
+
 In conclusion, the variables of vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset. The slope of the line is not considered to be zero and our linear model does predict mpg of MechaCar prototypes effectively. Our r-squared value of 0.71 (r^2 = 0.71) and p-value of less than 0.05 (p = 5.35 x 10-11) shows that our multiple regression model is able to predict mpg of MechaCar prototypes.
 
 ## Summary Statistics on Suspension Coils
